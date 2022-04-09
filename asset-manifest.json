@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2fca31f.chunk.css",
+    "main.js": "/static/js/main.bd356350.chunk.js",
+    "main.js.map": "/static/js/main.bd356350.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3d999c1e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3d999c1e.js.map",
+    "static/css/2.2c9ba43f.chunk.css": "/static/css/2.2c9ba43f.chunk.css",
+    "static/js/2.349cb48a.chunk.js": "/static/js/2.349cb48a.chunk.js",
+    "static/js/2.349cb48a.chunk.js.map": "/static/js/2.349cb48a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5e295307c5f914ed4bd379023cc5605a.js": "/precache-manifest.5e295307c5f914ed4bd379023cc5605a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2c9ba43f.chunk.css.map": "/static/css/2.2c9ba43f.chunk.css.map",
+    "static/css/main.b2fca31f.chunk.css.map": "/static/css/main.b2fca31f.chunk.css.map",
+    "static/js/2.349cb48a.chunk.js.LICENSE.txt": "/static/js/2.349cb48a.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/revicons.2feb69cc.eot",
+    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d999c1e.js",
+    "static/css/2.2c9ba43f.chunk.css",
+    "static/js/2.349cb48a.chunk.js",
+    "static/css/main.b2fca31f.chunk.css",
+    "static/js/main.bd356350.chunk.js"
+  ]
+}
